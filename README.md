@@ -12,7 +12,6 @@ Sistema de evaluación automática de pronunciación en japonés mediante técni
 PronuncIA es un proyecto académico desarrollado para la materia *Técnicas de Procesamiento del Habla* del ISPC. El sistema compara pronunciaciones realizadas por el usuario con audios de referencia generados mediante síntesis de voz, analizando similitudes acústicas a partir de características extraídas de las señales de audio.
 
 ## Funcionalidades
-
 * Generación de audios de referencia mediante gTTS.
 * Procesamiento de grabaciones de usuario.
 * Visualización de formas de onda y espectrogramas.
@@ -21,7 +20,6 @@ PronuncIA es un proyecto académico desarrollado para la materia *Técnicas de P
 * Comparación y evaluación de pronunciación.
 
 ## Tecnologías
-
 * Python
 * Jupyter Notebook
 * Librosa
