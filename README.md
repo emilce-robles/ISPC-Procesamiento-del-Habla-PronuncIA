@@ -1,9 +1,7 @@
 # PronuncIA
-
 Sistema de evaluación automática de pronunciación en japonés mediante técnicas de Procesamiento del Habla e Inteligencia Artificial.
 
 ## Integrantes
-
 * Emilce Robles
 * Ian Marini
 
@@ -32,7 +30,6 @@ PronuncIA es un proyecto académico desarrollado para la materia *Técnicas de P
 * Git / GitHub
 
 ## Estructura
-
 text
 audios/
 ├── referencia/
@@ -44,7 +41,6 @@ README.md
 
 
 ## Institución
-
 Instituto Superior Politécnico Córdoba (ISPC)
 
 Materia: Técnicas de Procesamiento del Habla
