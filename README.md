@@ -32,8 +32,11 @@ PronuncIA es un proyecto académico desarrollado para la materia *Técnicas de P
 ## 📂 Estructura
 text
 audios/
+
 ├── referencia/
+
 ├── usuario/
+
 └── sinteticos/
 
 PronuncIA.ipynb
