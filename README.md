@@ -13,6 +13,9 @@ PronuncIA es un proyecto académico desarrollado para la materia *Técnicas de P
 
 👉 **Probar PronuncIA:** https://pronuncia.streamlit.app/
 
+<img width="532" height="712" alt="image" src="https://github.com/user-attachments/assets/1caacc4a-cb7a-4d88-a689-0fdd4060cc8a" />
+
+
 ## 📂 Funcionalidades
 * Generación de audios de referencia mediante gTTS.
 * Procesamiento de grabaciones de usuario.
